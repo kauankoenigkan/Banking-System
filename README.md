@@ -47,11 +47,11 @@
 ```text
 Banking-System/
 ├── .gitignore                  # Arquivos ignorados pelo Git (.class, .jar, etc)
-├── README.md                   # Documentação do repositório
 ├── schema.sql                  # Script SQL para criação da base e tabela
 └── scr/
     ├── ContaBancaria.java      # Modelo de dados e validações da conta
     ├── Main.java               # Classe principal e fluxo do menu CLI
+    ├── README.md 
     └── SecurePassword.java     # Módulo de criptografia de senhas (SHA-256)
 ```
 
