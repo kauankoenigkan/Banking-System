@@ -15,7 +15,7 @@
 * **Banco de Dados:** MySQL / MariaDB (via XAMPP)
 * **Gerenciador de Banco de Dados:** phpMyAdmin
 * **Conectividade:** JDBC (`com.mysql.cj.jdbc.Driver`)
-* **Criptografia:** Algoritmo SHA-256 (`java.security.MessageDigest`)
+* **Criptografia:** SHA-256 (`java.security.MessageDigest`)
 * **Terminal / CLI:** PowerShell / Bash / Command Prompt
 * **IDE Recomendada:** VS Code / Eclipse / IntelliJ IDEA
 
@@ -64,7 +64,8 @@ Banking-System/
 3. Vá para a aba SQL e execute o script abaixo:
 
 ```text
-SQL
+================ SQL =================
+
 CREATE DATABASE IF NOT EXISTS bancoDB;
 USE bancoDB;
 
