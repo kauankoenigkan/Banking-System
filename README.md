@@ -89,7 +89,7 @@ CREATE TABLE IF NOT EXISTS contas (
    
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/kauankoenigkan/Banking-System.git](https://github.com/kauankoenigkan/Banking-System.git)
 
 # 2. Acesse a pasta do código-fonte
 cd Banking-System/scr
